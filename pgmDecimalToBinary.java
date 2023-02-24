@@ -4,7 +4,7 @@ public class pgmDecimalToBinary{
 public static void main(String[] args) {
     Scanner obj = new Scanner(System.in);
     int numero, residuo, binario=0,exp=0;
-    System.out.println("Escriba un numero : "); numero = obj.nextInt();
+    System.out.println("Escriba un numero entero : "); numero = obj.nextInt();
     
     //proceso
     while(numero!=0){
