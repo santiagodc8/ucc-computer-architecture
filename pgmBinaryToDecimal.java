@@ -14,6 +14,6 @@ public class pgmBinaryToDecimal {
             c++;
             num /= 10;
         }
-        System.out.println("El numero convertido a decimal es: " + decimal);
+        System.out.println("El numero convertido a decimal es: " + decimal + "👍");
     }
 }
