@@ -5,7 +5,7 @@
 ## Programs
 
 ## Decimal to Binary
-![Pgm decimal to binary](/arquitectura/decimalBinary.png)
+![Pgm decimal to binary](/arquitectura/decimal-to-binary.png)
 
 ## Binary to Decimal
-![Pgm decimal to binary](/arquitectura/binaryDecimal.png)
+![Pgm decimal to binary](/arquitectura/binary-to-decimal.png)
