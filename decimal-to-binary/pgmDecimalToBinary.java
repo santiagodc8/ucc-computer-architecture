@@ -2,9 +2,16 @@ import java.util.Scanner;
 
 public class pgmDecimalToBinary {
     public static void main(String[] args) {
+        System.out.println("Convertidor de Numeros 🔢Decimales a Binarios");
+        try {
+            Thread.sleep(2000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
         Scanner obj = new Scanner(System.in);
         int numero, residuo, binario = 0, exp = 0;
-        System.out.println("Escriba un numero entero : ");
+        System.out.println("Escriba un numero entero por favor ➡️: ");
         numero = obj.nextInt();
 
         // proceso
@@ -14,7 +21,13 @@ public class pgmDecimalToBinary {
             exp++;
             numero /= 2;
         }
-        System.out.println("El numero convertido a Binario es: " + binario);
+        System.out.println("El numero convertido a Binario es: " + binario + "✅👍");
+        try {
+            Thread.sleep(2000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        System.out.println("Hasta Luego 🤙🤙🤙");
 
     }
 }
