@@ -31,4 +31,3 @@ public class pgmBinaryToDecimal {
         System.out.println("Hasta Luego 🤙🤙🤙");
     }
 }
-
