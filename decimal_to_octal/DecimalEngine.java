@@ -1,7 +1,7 @@
 package decimal_to_octal;
 
 public class DecimalEngine {
-    public static boolean validarDecimal(int decimal) {
+    public boolean validarDecimal(int decimal) {
         // Decimal pasa la validación con el hecho de que sea entero
         System.out.println("❌ El dato ingresado no es un numero Octal ❌");
         return true;
