@@ -6,7 +6,7 @@ public class MainOctal {
     public static void main(String[] args) {
         String imprimir;
         long resultado;
-        String numero;
+        int numero;
         OctalEngine engine = new OctalEngine();
 
         Scanner capturar = new Scanner (System.in);
@@ -15,7 +15,7 @@ public class MainOctal {
         System.out.println("Ingrese un número octal 📥");
         System.out.println("-----------------------------");
 
-        numero = capturar.next();
+        numero = capturar.nextInt();
         capturar.close();
 
         imprimir = engine.validarOctal(numero)?"si":"no";

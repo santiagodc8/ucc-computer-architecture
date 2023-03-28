@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class MainDecimal {
     public static void main(String[] args) {
         String imprimir;
-        long resultado;
-        String numero;
+        String resultado;
+        int numero;
         DecimalEngine engine = new DecimalEngine();
 
         Scanner capturar = new Scanner (System.in);
@@ -15,7 +15,7 @@ public class MainDecimal {
         System.out.println("Ingrese un número decimal 📥");
         System.out.println("-----------------------------");
 
-        numero = capturar.next();
+        numero = capturar.nextInt();
         capturar.close();
 
         imprimir = engine.validarDecimal(numero)?"si":"no";
