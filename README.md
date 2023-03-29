@@ -1,11 +1,10 @@
-# ucc-computer-architecture
+# Ucc Computer Architecture ![icon](./images/icons-github.png)
 
-# This is a project to course on University of Colombia Coop
+# **Projects Programing Language**
+| Programming Language                       | Folder                |  Status        |
+| ------------------------------------------ | --------------------- | -------------- |
+| ![java](./images/icon-java.png) Java       | [`java`](./java/)     | `In Progress`  |
 
-## Programs
 
-## Decimal to Binary
-![Pgm decimal to binary](../arquitectura/decimal-to-binary.png)
+by: [`Santiago Duran`](https://www.linkedin.com/in/santiago-duran-canedo-2b713b231/) ![linkedin](https://img.icons8.com/sf-ultralight/2x/linkedin.png)
 
-## Binary to Decimal
-![Pgm binary to decimal](../arquitectura/binary-to-decimal.png)
