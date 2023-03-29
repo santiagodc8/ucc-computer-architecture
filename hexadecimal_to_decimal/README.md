@@ -1,8 +1,10 @@
-# First PGM Thread on Java
+# PGMs
 
-## Performing PGM: MainThreadExtends.java
-![MainThreadExtends](./assets/MainThreadExtends.jpg)
+## Hexadecimal to Decimal
+![hexa](./assets/hexadecimal.png)
 
-## Performing PGM: MainThreadRunnable.java
-![MainThreadRunnable](./assets/MainThreadRunnable.jpg)
+![hexa](./assets/hexadecimal2.png)
+
+
+!
 
